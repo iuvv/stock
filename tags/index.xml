@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TOM</title>
+    <link>https://s.qqbb.app/tags/</link>
+    <description>Recent content in Tags on TOM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>766529074@qq.com</managingEditor>
+    <webMaster>766529074@qq.com</webMaster>
+    <lastBuildDate>Sat, 18 Mar 2017 20:53:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://s.qqbb.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me</title>
+      <link>https://s.qqbb.app/tags/me/</link>
+      <pubDate>Sat, 18 Mar 2017 20:53:54 +0800</pubDate>
+      <author>766529074@qq.com</author>
+      <guid>https://s.qqbb.app/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://s.qqbb.app/tags/review/</link>
+      <pubDate>Tue, 09 Oct 2018 00:09:50 +0800</pubDate>
+      <author>766529074@qq.com</author>
+      <guid>https://s.qqbb.app/tags/review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

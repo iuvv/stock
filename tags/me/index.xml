@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Me on TOM</title>
+    <link>https://s.qqbb.app/tags/me/</link>
+    <description>Recent content in Me on TOM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>766529074@qq.com</managingEditor>
+    <webMaster>766529074@qq.com</webMaster>
+    <lastBuildDate>Sat, 18 Mar 2017 20:53:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://s.qqbb.app/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://s.qqbb.app/about/</link>
+      <pubDate>Sat, 18 Mar 2017 20:53:54 +0800</pubDate>
+      <author>766529074@qq.com</author>
+      <guid>https://s.qqbb.app/about/</guid>
+      <description>Info Name: Tom Address: ShenZhen, China 🇨🇳 Focus: SRE, DEVOPS, Kubernetes, Cloud Native and Service Mesh Language: Go, Python, Nodejs Interest: AI, Blockchain, Cloud Computing, Big Data 信息 英文名: Tom 地址: 中国 🇨🇳 深圳 焦点：SRE, DEVOPS, Kubernetes, Cloud Native and Service Mesh 开发语言：Go, Python, Nodejs 感兴</description>
+    </item>
+    
+  </channel>
+</rss>
