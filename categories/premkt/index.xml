@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on TOM</title>
-    <link>https://s.qqbb.app/posts/</link>
-    <description>Recent content in Posts on TOM</description>
+    <title>Premkt on TOM</title>
+    <link>https://s.qqbb.app/categories/premkt/</link>
+    <description>Recent content in Premkt on TOM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>766529074@qq.com</managingEditor>
     <webMaster>766529074@qq.com</webMaster>
     <lastBuildDate>Tue, 09 Oct 2018 10:57:54 +0800</lastBuildDate>
     
-	<atom:link href="https://s.qqbb.app/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s.qqbb.app/categories/premkt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <author>766529074@qq.com</author>
       <guid>https://s.qqbb.app/posts/premkt-part-1/</guid>
       <description>（来自某大神） 盘前必读 敬畏市场。坚持被动交易、定式交易，永远把保持本金放在第一位。 计划交易。每天写复盘日记，静态阅读市场。每个买卖决定对照</description>
-    </item>
-    
-    <item>
-      <title>Review 20181008</title>
-      <link>https://s.qqbb.app/posts/review-20181008/</link>
-      <pubDate>Tue, 09 Oct 2018 00:09:50 +0800</pubDate>
-      <author>766529074@qq.com</author>
-      <guid>https://s.qqbb.app/posts/review-20181008/</guid>
-      <description>(下面代码中，不满6位的，前面自己脑补0) 今日 操作 20181008 9:25 买入 000017 4.60元*400股 20181008 10:XX 买入 300379 14.33元*200股 20181008 11:XX 买入 002471 3.20元*700</description>
     </item>
     
   </channel>

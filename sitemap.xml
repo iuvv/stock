@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://s.qqbb.app/posts/premkt-part-1/</loc>
+    <lastmod>2018-10-09T10:57:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://s.qqbb.app/posts/review-20181008/</loc>
     <lastmod>2018-10-09T00:09:50+08:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>https://s.qqbb.app/</loc>
-    <lastmod>2018-10-09T00:09:50+08:00</lastmod>
+    <lastmod>2018-10-09T10:57:54+08:00</lastmod>
   </url>
   
   <url>
@@ -30,7 +35,19 @@
   
   <url>
     <loc>https://s.qqbb.app/posts/</loc>
-    <lastmod>2018-10-09T00:09:50+08:00</lastmod>
+    <lastmod>2018-10-09T10:57:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://s.qqbb.app/tags/premkt/</loc>
+    <lastmod>2018-10-09T10:57:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://s.qqbb.app/categories/premkt/</loc>
+    <lastmod>2018-10-09T10:57:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
